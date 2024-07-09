@@ -1,6 +1,5 @@
 # Cpp-Programs Repository
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 Welcome to the C++ Programs Repository! This repository contains a collection of C++ programs ranging from beginner to advanced levels. These programs cover various concepts and algorithms in C++.
 
